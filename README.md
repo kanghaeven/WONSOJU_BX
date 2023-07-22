@@ -16,6 +16,8 @@
 
 [!pre](https://github.com/kanghaeven/WONSOJU_BX/assets/122589773/12f12c4d-6ad9-4c89-8b19-3909c5b603b3)
 
+- ~용량 압축 문제로 시연 영상 화질이 깨지는 부분이 있습니다~ 
+
 <br>
 
 ## BX 사이트 디자인
